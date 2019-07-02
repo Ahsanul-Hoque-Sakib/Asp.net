@@ -1,0 +1,64 @@
+﻿body{
+   background-image:url(Properties/blood.jpg);
+   vertical-align:central;
+   align-content:center;
+   margin-top:10px;
+}
+
+.main{
+
+
+    margin-top:5%;
+    width:30%;
+     background-color:#ffffff;
+     height:auto;
+     margin-left:35%;
+     margin-right:35%;
+
+   border: solid #f1f1f1 3px;
+
+}
+
+
+
+/* Full-width inputs */
+input[type=email],input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  margin-bottom:20px;
+}
+
+
+
+/* Center the avatar image inside this container */
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+
+}
+
+/* Avatar image */
+img.avatar {
+  margin-top:10px;
+  width: 40%;
+  border-radius: 50%;
+  border: 2px solid red;
+}
+
+.reg{
+    background-color:#23D611;
+    margin-bottom:20px;
+    height:50px;
+}
+
+.reg:hover{
+    background-color:#1EFA09;
+}
+
+
+
+

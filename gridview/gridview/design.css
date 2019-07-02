@@ -1,0 +1,42 @@
+﻿body {
+}
+
+.header{
+    background-color:Highlight;
+    height:50px;
+    width:auto;
+    align-content:flex-end;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    margin-bottom:5px;
+}
+
+.ac,.ui,.in{
+    background-color:Highlight;
+    height:25px;
+    text-align:center;
+    width:auto;
+    margin-left:20px;
+    float:left;
+    border:none;
+    border-radius:12px;
+    margin-top:13px;
+
+    
+}
+
+.ac:hover{
+    background-color:aqua;
+    font-weight:bold;
+    
+}
+
+.ui:hover{
+    background-color:aqua;
+    font-weight:bold;
+}
+
+.in:hover{
+    background-color:aqua;
+    font-weight:bold;
+}
+
